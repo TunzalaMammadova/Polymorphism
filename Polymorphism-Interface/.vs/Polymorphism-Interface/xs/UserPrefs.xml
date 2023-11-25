@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9A3B227E-974E-415B-8F95-A7630D82C6B9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polymorphism-Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Polymorphism-Interface/Notebook.cs">
+    <Files>
+      <File FileName="Polymorphism-Interface/Program.cs" />
+      <File FileName="Domain/Models/BaseEntity.cs" />
+      <File FileName="Domain/Models/Blog.cs" />
+      <File FileName="Service/Services/Interface/IBlogService.cs" />
+      <File FileName="Service/Services/BlogService.cs" />
+      <File FileName="Polymorphism-Interface/Controllers/BlogController.cs" Line="12" Column="4" />
+      <File FileName="Polymorphism-Interface/ICommon.cs" Line="1" Column="1" />
+      <File FileName="Polymorphism-Interface/INotebook.cs" Line="1" Column="1" />
+      <File FileName="Polymorphism-Interface/Notebook.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polymorphism-Interface" expanded="True">
+            <Node name="Polymorphism-Interface">
+              <Node name="Controllers" expanded="True" />
+              <Node name="INotebook.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
